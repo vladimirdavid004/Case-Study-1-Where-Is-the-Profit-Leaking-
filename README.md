@@ -1,15 +1,13 @@
 Case Study 1: Where Is the Profit Leaking?
+
 Subtitle: Discount and profitability analysis for a US office-supply retailer
+
 Business problem
 A national retailer is growing sales, but profit isn't keeping up. Leadership wants to know which products, regions and discount levels are losing money, and what to change.
+
 Data
 Superstore Sales dataset on Kaggle: 9,994 order lines and 21 columns covering a fictional US retailer over 4 years.
-Field group	Columns
-Order	Order ID, Order Date, Ship Date, Ship Mode
-Customer	Customer ID, Segment (Consumer, Corporate, Home Office)
-Location	City, State, Region
-Product	Category, Sub-Category, Product Name
-Money	Sales, Quantity, Discount, Profit
+
 Questions
 1.	Which categories and sub-categories make money, and which lose it?
 2.	At what discount level do orders stop being profitable?
