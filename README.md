@@ -1,3 +1,5 @@
+# Case-Study Where Is the Profit Leaking? 
+
 Case Study: Where Is the Profit Leaking?
 
 Subtitle: Discount and profitability analysis for a US office-supply retailer
