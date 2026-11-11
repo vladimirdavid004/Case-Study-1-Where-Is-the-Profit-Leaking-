@@ -23,7 +23,7 @@ Findings
 1. Overall margin: 12.5% ($286K profit on $2.30M sales)
 2. Margin turns negative above 20% off: 29.5% at full price, 16.6% at 1–10%, 11.6% at 11–20%, −10.0% at 21–30%, −48.2% over 30%
 3. Biggest loss-making sub-categories: ___ (−$___ total)
-4.Weakest region or states: ___
+4. Weakest region or states: ___
 
 Key insight: 
 full-price orders are 47% of sales but earn $321K, more than total profit. All discounted orders combined lose about $35K. The "Over 30%" band is 12% of order lines yet loses $125K, about 44% of total profit. If the 1,393 orders discounted over 20% had broken even, profit would be about $422K, roughly 47% higher (an upper bound, since some of those sales might not happen at a smaller discount).
