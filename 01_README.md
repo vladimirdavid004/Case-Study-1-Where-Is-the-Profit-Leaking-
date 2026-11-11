@@ -19,7 +19,7 @@ Approach
 4. Loss leaders: list sub-categories and products with negative total profit, ranked by sales volume.
 5. Dashboard: Tableau Public with a margin-by-sub-category bar, a discount-vs-margin chart and a state map colored by profit.
 
-Findings (fill in after you run it)
+Findings 
 • Overall margin: 12.5% ($286K profit on $2.30M sales)
 • Margin turns negative above 20% off: 29.5% at full price, 16.6% at 1–10%, 11.6% at 11–20%, −10.0% at 21–30%, −48.2% over 30%
 • Biggest loss-making sub-categories: ___ (−$___ total)
